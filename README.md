@@ -1,4 +1,4 @@
-[Spanish](https://github.com/PawlaDev/PawlaDev/edit/main/README.md#espa%C3%B1ol)
+[Spanish](https://github.com/PawlaDev/PawlaDev/blob/main/README.md#espa%C3%B1ol)
 
 # Hello there! 👋 I'm Paula.
 
