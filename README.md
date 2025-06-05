@@ -20,6 +20,9 @@ I'm a Computer Engineering student passionate about cybersecurity, programming, 
 
 - [**RetroGames Store**](https://github.com/PawlaDev/retrogames-store):  
   An online store for retro games built with PHP and MySQL. Includes a shopping cart system and user management.
+
+- [**SecureCode**]((https://github.com/PawlaDev/securecode)):  
+  An intuitive VSCode extension that scans your code for OWASP Top 10 2021 vulnerabilities and highlights risks directly in the editor.
   
 - [**3D Designs Portfolio**]:  
   A collection of 3D models created with Blender.
@@ -73,6 +76,9 @@ Soy estudiante de Ingeniería Informática, apasionada por la ciberseguridad, la
 
 - [**RetroGames Store**](https://github.com/PawlaDev/retrogames-store): 
   Una tienda en línea de juegos y consolas retro desarrollada con PHP y MySQL. Incluye un sistema de carrito de compras y gestión de usuarios.
+  
+- [**SecureCode**]((https://github.com/PawlaDev/securecode)):  
+  Una extensión para VSCode que escanea código en busca de vulnerabilidades presentes en el OWASP Top 10 2021 y destaca los riesgos directamente desde el editor de código fuente.
 
 - **[Portafolio de Diseños 3D]:**  
   Una colección de modelos 3D creados con Blender.  
