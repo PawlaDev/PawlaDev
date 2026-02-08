@@ -1,12 +1,12 @@
 [Spanish](https://github.com/PawlaDev#espa%C3%B1ol)
 
-# Hello there! 👋 I'm Paula.
+# Hello there! I'm Paula.
 
 I'm a Computer Engineering student passionate about cybersecurity, programming, web development, and 3D design. I enjoy solving problems through code and creating visually engaging designs.
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 - **Programming languages:** Java, C, Python, PHP and x86 Assembly 
 - **Web development:** HTML, CSS, JavaScript and PHP
@@ -16,7 +16,7 @@ I'm a Computer Engineering student passionate about cybersecurity, programming, 
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 - [**RetroGames Store**](https://github.com/PawlaDev/retrogames-store):  
   An online store for retro games built with PHP and MySQL. Includes a shopping cart system and user management.
@@ -30,7 +30,7 @@ I'm a Computer Engineering student passionate about cybersecurity, programming, 
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Completing my Final Degree Project (FDP) focused on cybersecurity.  
 - Improving my skills in web development and UX/UI design.  
@@ -38,14 +38,14 @@ I'm a Computer Engineering student passionate about cybersecurity, programming, 
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/paulasanchezmora/)  
 - [3D Portfolio]
 
 ---
 
-## 🌟 A Little About Me
+## A Little About Me
 
 - 🎮 Big fan of video games.  
 - 🐶 I enjoy spending time outdoors with my dogs.
@@ -56,13 +56,13 @@ I'm a Computer Engineering student passionate about cybersecurity, programming, 
 ---
 # Español
 ---
-# ¡Hola! 👋 Soy Paula
+# ¡Hola! Soy Paula
 
 Soy estudiante de Ingeniería Informática, apasionada por la ciberseguridad, la programación, el desarrollo web y el diseño 3D. Disfruto resolviendo problemas mediante el código y creando diseños visualmente atractivos.
 
 ---
 
-## 🚀 Habilidades y Tecnologías
+## Habilidades y Tecnologías
 
 - **Lenguajes de programación:** Java, C, Python, PHP y ensamblador x86  
 - **Desarrollo web:** HTML, CSS, JavaScript y PHP  
@@ -72,7 +72,7 @@ Soy estudiante de Ingeniería Informática, apasionada por la ciberseguridad, la
 
 ---
 
-## 🌟 Proyectos Destacados
+## Proyectos Destacados
 
 - [**RetroGames Store**](https://github.com/PawlaDev/retrogames-store): 
   Una tienda en línea de juegos y consolas retro desarrollada con PHP y MySQL. Incluye un sistema de carrito de compras y gestión de usuarios.
@@ -85,7 +85,7 @@ Soy estudiante de Ingeniería Informática, apasionada por la ciberseguridad, la
 
 ---
 
-## 🎯 Objetivos Actuales
+## Objetivos Actuales
 
 - Finalizar mi Trabajo de Fin de Grado (TFG) enfocado en ciberseguridad.  
 - Mejorar mis habilidades en desarrollo web y diseño UX/UI.  
@@ -93,14 +93,14 @@ Soy estudiante de Ingeniería Informática, apasionada por la ciberseguridad, la
 
 ---
 
-## 📫 Contáctame
+## Contáctame
 
 - [LinkedIn](https://www.linkedin.com/in/paulasanchezmora/)  
 - [3D Portfolio] 
 
 ---
 
-## 🌟 Un Poco Sobre Mí
+## Un Poco Sobre Mí
 
 - 🎮 Soy una apasionada de los videojuegos.  
 - 🐶 Me encanta pasar tiempo al aire libre con mis perros.  
