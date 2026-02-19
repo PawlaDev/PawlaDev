@@ -1,4 +1,4 @@
-[Spanish](https://github.com/PawlaDev#espa%C3%B1ol)
+[Español](https://github.com/PawlaDev#espa%C3%B1ol)
 
 # Hello there! I'm Paula.
 
